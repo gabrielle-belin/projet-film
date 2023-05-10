@@ -327,7 +327,77 @@
     "imdbID":"tt0388318",
     "Type":"movie",
     "Poster":"https://m.media-amazon.com/images/M/MV5BMTczMjgyMjQxNF5BMl5BanBnXkFtZTcwNjUxMjU3Mg@@._V1_SX300.jpg"
- }
+ }, 
+         {
+         "Title":"Aladdin",
+         "Year":"1992",
+         "imdbID":"tt0103639",
+         "Type":"movie",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BZTg5ZTVmM2EtZjdhZC00MzBjLWEwZTYtNWIwZDczYzZkMzA4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+      },
+      {
+         "Title":"Aladdin",
+         "Year":"2019",
+         "imdbID":"tt6139732",
+         "Type":"movie",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BMjQ2ODIyMjY4MF5BMl5BanBnXkFtZTgwNzY4ODI2NzM@._V1_SX300.jpg"
+      },
+      {
+         "Title":"Aladdin and the King of Thieves",
+         "Year":"1996",
+         "imdbID":"tt0115491",
+         "Type":"movie",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BODFkMjE5YzAtMDFkOC00ZDNhLTkwNmQtODk1Y2VhNThlNWJhXkEyXkFqcGdeQXVyNzY1NDgwNjQ@._V1_SX300.jpg"
+      },
+      {
+         "Title":"Aladdin",
+         "Year":"1994–1995",
+         "imdbID":"tt0105935",
+         "Type":"series",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BMGEyYzk4NjktODg1Yi00ZTQ5LWE2M2EtMDNlZGYyZGU3ZmU5XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg"
+      },
+      {
+         "Title":"Aladdin",
+         "Year":"1986",
+         "imdbID":"tt0090601",
+         "Type":"movie",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BZjkwOGQyNWItOGE1OC00NTcwLWI3NjQtODA0YjYxODhmM2FkXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg"
+      },
+      {
+         "Title":"The New Adventures of Aladdin",
+         "Year":"2015",
+         "imdbID":"tt4466864",
+         "Type":"movie",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BOWNiYjViYTItNDZlNy00ZDM1LTk4ZTktNzU5ZjNkYzgwNWUyXkEyXkFqcGdeQXVyMjM3MjUxMjQ@._V1_SX300.jpg"
+      },
+      {
+         "Title":"Adventures of Aladdin",
+         "Year":"2019",
+         "imdbID":"tt9783778",
+         "Type":"movie",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BMDViZjgxNjMtZGExYS00MDk5LWIyNWQtMmQzNzQ1N2Y0Yzk4XkEyXkFqcGdeQXVyNTkzMzg3NDM@._V1_SX300.jpg"
+      },
+      {
+         "Title":"Aladdin - Naam Toh Suna Hoga",
+         "Year":"2018–2021",
+         "imdbID":"tt8806456",
+         "Type":"series",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BNjRkNzY1NGEtZmQ1My00NjNmLTgzOWYtNjEwODYwMWIwMDM1XkEyXkFqcGdeQXVyNzM4MjU3NzY@._V1_SX300.jpg"
+      },
+      {
+         "Title":"Aladdin 2",
+         "Year":"2018",
+         "imdbID":"tt7136896",
+         "Type":"movie",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BYjBhMTY0NzgtMWFiOS00NGRjLTgyMTUtZTg5YWZmM2VjZTdjXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_SX300.jpg"
+      },
+      {
+         "Title":"Aladdin",
+         "Year":"1993",
+         "imdbID":"tt0204798",
+         "Type":"game",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BMjI4YWQwMmYtYWI4OS00MzY0LWFhZGMtZjlmZTgzNGZkMzM4XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg"
+      }
 
 ],
 "totalResults":"129",
