@@ -57,13 +57,6 @@
     "Poster":"https://m.media-amazon.com/images/M/MV5BNWIzOWNmNjgtODUxOS00OWI2LTg5MjEtNzBkZjgzNzhlN2Q2XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg"
  },
  {
-    "Title":"Cendrillon",
-    "Year":"1922",
-    "imdbID":"tt0953338",
-    "Type":"movie",
-    "Poster":"N/A"
- },
- {
     "Title":"Qui a tué Cendrillon?",
     "Year":"2012",
     "imdbID":"tt2183334",
@@ -85,39 +78,11 @@
     "Poster":"https://m.media-amazon.com/images/M/MV5BNzEwYzgzY2QtYjAyOC00MmVkLWFjYTEtODA2NjkxODE4NWFkXkEyXkFqcGdeQXVyMTM0ODkxMDY@._V1_SX300.jpg"
  },
  {
-    "Title":"Cendrillon, en route pour Versailles",
-    "Year":"2014",
-    "imdbID":"tt5272336",
-    "Type":"movie",
-    "Poster":"N/A"
- },
- {
-    "Title":"Dans les pas de Cendrillon",
-    "Year":"2017",
-    "imdbID":"tt9529972",
-    "Type":"movie",
-    "Poster":"N/A"
- },
- {
     "Title":"Cendrillon de Paris",
     "Year":"1930",
     "imdbID":"tt0197349",
     "Type":"movie",
     "Poster":"https://m.media-amazon.com/images/M/MV5BY2QyOTNiYTQtOGYwOC00ZjRkLTkzYmItNWRmZjMwZjk5NGI4XkEyXkFqcGdeQXVyMjk4ODY5MTA@._V1_SX300.jpg"
- },
- {
-    "Title":"Cendrillon 90",
-    "Year":"1991",
-    "imdbID":"tt0252312",
-    "Type":"movie",
-    "Poster":"N/A"
- },
- {
-    "Title":"Le cousin de Cendrillon",
-    "Year":"1910",
-    "imdbID":"tt0436196",
-    "Type":"movie",
-    "Poster":"N/A"
  },
 {
    "Title":"The Lion King",
@@ -146,13 +111,6 @@
    "imdbID":"tt0366742",
    "Type":"movie",
    "Poster":"https://m.media-amazon.com/images/M/MV5BNmMxM2E3NWItZjUzOS00MmE4LTkyMmYtM2UwZTJhMDUyZTUwXkEyXkFqcGdeQXVyODA0MzEyNjU@._V1_SX300.jpg"
-},
-{
-   "Title":"The Lion King: A Musical Journey with Elton John",
-   "Year":"1994",
-   "imdbID":"tt0245234",
-   "Type":"movie",
-   "Poster":"N/A"
 },
 {
    "Title":"YMS: The Lion King (Part 1)",
@@ -197,38 +155,10 @@
  },
  {
     "Title":"Aladin",
-    "Year":"1975",
-    "imdbID":"tt1066401",
-    "Type":"movie",
-    "Poster":"N/A"
- },
- {
-    "Title":"Aladin",
     "Year":"1946",
     "imdbID":"tt1690100",
     "Type":"movie",
     "Poster":"https://m.media-amazon.com/images/M/MV5BMDYxYzM0NTgtOGYzMC00Mzg2LTk1MzEtOWFiMDAwYmZjNThhXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_SX300.jpg"
- },
- {
-    "Title":"Aladin et la lampe merveilleuse",
-    "Year":"1901",
-    "imdbID":"tt1745657",
-    "Type":"movie",
-    "Poster":"N/A"
- },
- {
-    "Title":"Aladin at ang mahiwagang lampara",
-    "Year":"1972",
-    "imdbID":"tt1244681",
-    "Type":"movie",
-    "Poster":"N/A"
- },
- {
-    "Title":"Aladin",
-    "Year":"1953",
-    "imdbID":"tt1385828",
-    "Type":"movie",
-    "Poster":"N/A"
  },
  {
     "Title":"Beauty and the Beast",
